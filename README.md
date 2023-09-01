@@ -1,4 +1,4 @@
-**# Portfolio Webpage #1**
+# Portfolio Webpage #1
 ---
 In this project, we were tasked with creating a *portfolio webpage* using the HTML and CSS knowledge we have learned so far in the prep course.
 
