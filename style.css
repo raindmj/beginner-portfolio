@@ -75,7 +75,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 40%;
 }
 
 /* styled links */
@@ -85,6 +85,6 @@ a {
 }
 
 a:link {color: brown;}
-a:visited {color: #A52A2A;}
-a:hover {color: #D2B48C;}
-a:active {color: #8B4513;}
+a:visited {color: crimson;}
+a:hover {color: indianred;}
+a:active {color: saddlebrown;}
