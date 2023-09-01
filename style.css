@@ -84,7 +84,7 @@ a {
   font-size: 15px;
 }
 
-a:link {color: red;}
-a:visited {color: brown;}
-a:hover {color: tan;}
-a:active {color: saddlebrown;}
+a:link {color: ##B22222;}
+a:visited {color: ##A52A2A;}
+a:hover {color: ##D2B48C;}
+a:active {color: #8B4513;}
