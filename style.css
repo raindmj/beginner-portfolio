@@ -26,14 +26,12 @@ body > div > nav {
 p {
   font-size: 15px;
   font-family: "Libre Franklin", Arial, Helvetica, sans-serif;
-  text-align: center;
 }
 
 /* make lists styling consistent with paragraphs */
 ul, ol {
   font-family: "Libre Franklin", Arial, Helvetica, sans-serif;
   font-size: 15px;
-  text-align: center;
 }
 
 /* change font, alignment, size, and spacing of header 1 */
@@ -58,14 +56,12 @@ h2 {
 h3 {
   font-family: Impact, "Libre Franklin", Arial, Helvetica, sans-serif;
   letter-spacing: 2px;
-  text-align: center;
 }
 
 /* make background of footer section one color */
 footer {
   background-color: #dda15e;
   padding: 1px;
-  text-align: center;
 }
 
 /* adjust size of picture and added brown/red border around it */
