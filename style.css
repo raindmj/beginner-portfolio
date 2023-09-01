@@ -64,10 +64,10 @@ footer {
   padding: 1px;
 }
 
-/* adjust size of picture and added green border around it */
+/* adjust size of picture and added brown/red border around it */
 img {
   width: 200px;
-  border: 4px solid brown;
+  border: 4px solid #A52A2A;
 }
 
 /* create class selector to center image */
@@ -75,7 +75,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 30%;
 }
 
 /* styled links */
@@ -84,7 +84,7 @@ a {
   font-size: 15px;
 }
 
-a:link {color: brown;}
-a:visited {color: crimson;}
-a:hover {color: indianred;}
-a:active {color: saddlebrown;}
+a:link {color: #A52A2A;}
+a:visited {color: #DC143C;}
+a:hover {color: #CD5C5C;}
+a:active {color: #8B4513;}
