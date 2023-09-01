@@ -1,0 +1,90 @@
+
+/* makes background of whole page one color*/
+body {
+  background-color: #fefae0;
+}
+
+/* background of header/footer one color */
+body > div {
+  background-color: #dda15e;
+  margin: 0px;
+}
+
+/* center align "Software Developer in Training" and move it up */
+body > div > header > p {
+  text-align: center;
+  height: 50px;
+}
+
+/* center align nav and move it up */
+body > div > nav {
+  text-align: center;
+  height: 50px ;
+}
+
+/* make paragraphs consistent */
+p {
+  font-size: 15px;
+  font-family: "Libre Franklin", Arial, Helvetica, sans-serif;
+}
+
+/* make lists styling consistent with paragraphs */
+ul, ol {
+  font-family: "Libre Franklin", Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+/* change font, alignment, size, and spacing of header 1 */
+h1 {
+  text-align: center;
+  color: black;
+  font-family: Impact, "Libre Franklin", Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  margin: 10px;
+  padding: 30px;
+  height: 0px;
+  letter-spacing: 2px;
+}
+
+/* change font and alignment of header 2 */
+h2 {
+  font-family: "Libre Franklin", Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+/* change font and spacing of header 3 */
+h3 {
+  font-family: Impact, "Libre Franklin", Arial, Helvetica, sans-serif;
+  letter-spacing: 2px;
+}
+
+/* make background of footer section one color */
+footer {
+  background-color: #dda15e;
+  padding: 1px;
+}
+
+/* adjust size of picture and added green border around it */
+img {
+  width: 400px;
+  border: 4px solid brown;
+}
+
+/* create class selector to center image */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+/* styled links */
+a {
+  font-family: "Libre Franklin", Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+a:link {color: orange;}
+a:visited {color: brown;}
+a:hover {color: tan;}
+a:active {color: saddlebrown;}
