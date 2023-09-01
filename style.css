@@ -66,7 +66,7 @@ footer {
 
 /* adjust size of picture and added green border around it */
 img {
-  width: 400px;
+  width: 200px;
   border: 4px solid brown;
 }
 
